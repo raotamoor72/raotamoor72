@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raotamoor72
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...teacher
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
